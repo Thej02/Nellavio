@@ -307,20 +307,7 @@ On macOS use `Cmd` instead of `Ctrl`.
 | `npm run format`       | Formats code with Prettier            |
 | `npm run format:check` | Checks if code is properly formatted  |
 
-## Community and support
-
-Check out [CONTRIBUTING.md](https://github.com/nellavio/nellavio/blob/main/CONTRIBUTING.md) to learn how to get started with contributions.
-
-All forms of project support are valued and appreciated, including code contributions, issue reporting, and sponsorship through GitHub Sponsors.
-
 ## License
 
 This project is open source and available under the MIT License. Feel free to use it to build any personal or commercial applications (SaaS, internal tools etc.). Although the license allows redistribution, I would greatly appreciate it if you did not repackage or resell this project as a standalone UI kit or a template.
 
-## Stay updated
-
-Subscribe to the [Nellavio newsletter](https://nellavio.kit.com/) to get notified about major updates and new features.
-
-## Author
-
-Made by [matt765](https://github.com/matt765/)
